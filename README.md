@@ -23,4 +23,8 @@
 
 ### First url:
 
+https://capital-finder-jf4l.vercel.app/api/capital-finder?country=France
+
 ### Second url:
+
+https://capital-finder-jf4l.vercel.app/api/capital-finder?capital=Berlin

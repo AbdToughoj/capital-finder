@@ -1,18 +1,26 @@
-LAB - Class xx
-Project: Project Name Here
-Author: Student/Group Name
-Links and Resources
-back-end server url (when applicable)
-front-end application (when applicable)
-Setup
-.env requirements (where applicable)
-i.e.
-PORT - Port Number
-DATABASE_URL - URL to the running Postgres instance/db
-How to initialize/run your application (where applicable)
-e.g. python main.py
-How to use your library (where applicable)
+# LAB - Class 16
 
-https://capital-finder-jf4l.vercel.app/api/capital-finder?capital=tokyo
+# Project: Serverless Functions
 
-another link
+# Author: Abdallah Toughoj
+
+# Setup
+
+## .env requirements
+
+- certifi==2023.5.7
+- charset-normalizer==3.1.0
+- idna==3.4
+- requests==2.31.0
+- urllib3==2.0.3
+- vercel==0.2.1
+
+## How to initialize/run your application
+
+- capital-finder.py
+
+## Working example urls:
+
+### First url:
+
+### Second url:
